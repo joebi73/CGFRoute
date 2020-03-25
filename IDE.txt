@@ -10,6 +10,8 @@ Get git/github work in VS Code:
   Tried to move a file to Folder_In_Workspace, 'stage change', 'commit' and remote push to github. WORKED!
   
   Will try with my project now: CGFRoute
+  It worked. Typing this in VS Code...
+  So next step...
 
 
 
