@@ -12,6 +12,10 @@ Get git/github work in VS Code:
   Will try with my project now: CGFRoute
   It worked. Typing this in VS Code...
   So next step...
+  WORKS!
+
+gtest/gmock
+
 
 
 
