@@ -1,0 +1,22 @@
+
+Epic: CGF ground vehicles shall follow roads.
+
+Epic: CGF ground vehicles shall have collision detection.
+
+0. Environment
+---------------
+
+Develop in an integrated develop environment.
+Use 
+ - Visual studio code
+ - Use gtest and gmock
+ - Try to use github for the project
+
+1. Research
+------------
+Is there any algorithm that is open source that can be used.
+
+Is there any opensource CGF for ground vehicle?
+As GeoDB use openstreetmap.
+Is there any open source IG?
+Can I use like "pygame" but for c++?

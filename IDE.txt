@@ -1,0 +1,36 @@
+25/3 2020
+---------
+
+Get git/github work in VS Code:
+  https://www.youtube.com/watch?v=Fk12ELJ9Bww
+  VS Code -> View -> Command_Palette -> Git add remote
+  Add a name and github URL
+  Needed to use a Cheat-sheet to get it to work. An old folder with code already in it didn't I get to work.
+  Cheat-sheet: http://www.notyourdadsit.com/blog/2018/4/3/cheatsheet-setup-github-on-visual-studio-code
+  Tried to move a file to Folder_In_Workspace, 'stage change', 'commit' and remote push to github. WORKED!
+  
+  Will try with my project now: CGFRoute
+
+
+
+24/3 2020
+----------
+Visual studio code - OK
+MinGW - OK (I think)
+
+gtest - NOK
+gmock - NOK
+  Need to get CMake to work.
+  And to install gtest/gmock from Github in Visual studio code
+  I need git to work.
+CMake - OK (integrated in Visual studio code)
+Git - Installed. But I dont know how to use it, yet...
+GitHub - Create an account 
+         Already have one == joebi73
+         Password == 72nehZMd
+
+   Setup Github in Visual studio code: 
+   weblink https://github.com/joebi73/testrepo.git - NOK
+
+
+
